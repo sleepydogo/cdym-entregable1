@@ -4,3 +4,6 @@
 ## Circuitos digitales y microcontroladores.
 ### Trabajo Práctico N°1.
 Proyecto creado por Tomas E. Schattmann y Mariano A. Rodriguez Mesa para la presentación de los códigos correspondientes al Entregable 1 de la materia Circuitos Digitales y Microcontroladores.
+
+Link a los videos de simulacion: 
+https://drive.google.com/drive/folders/1jhaKCGSw5cnhpyRwKTvdAaN7GMvexHVt
